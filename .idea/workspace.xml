@@ -1,7 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="task01_demo01:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d25d498-a57a-4bfd-a428-213c9b11d9c1" name="Default Changelist" comment="" />
+    <list default="true" id="7d25d498-a57a-4bfd-a428-213c9b11d9c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/task04_demo01/src/com/my/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task04_demo01/src/com/my/taglib/MyTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task04_demo01/web/WEB-INF/myTag.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task04_demo01/web/el_bean.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task04_demo01/web/el_collection.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task04_demo01/web/el_object.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task04_demo01/web/el_operator.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task04_demo01/web/el_param.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task04_demo01/web/jstl.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task04_demo01/web/param.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/01_课件/第四章 EL和JSTL核心技术.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/02_图片/01 任务总结.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/src/com/lagou/demo01/HelloTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/src/com/lagou/demo01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/WEB-INF/helloTag.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/el_bean.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/el_collection.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/el_object.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/el_operator.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/el_param.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/jstl_choose.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/jstl_for.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/jstl_format.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/jstl_func.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/jstl_if.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/jstl_my.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/jstl_out.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/jstl_remove.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/jstl_set.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/param.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/01_课件/第五章 Filter+Listener核心技术.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/02_图片/01 任务总结.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo01/src/com/lagou/demo01/LoginFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo01/src/com/lagou/demo01/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo01/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo01/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo01/web/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo01/web/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo02/src/com/lagou/demo02/AFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo02/src/com/lagou/demo02/BFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo02/src/com/lagou/demo02/LifeFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo02/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo02/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo02/web/life.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/src/com/lagou/demo03/MyContextAttributeListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/src/com/lagou/demo03/MyContextListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/src/com/lagou/demo03/MyRequestAttributeListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/src/com/lagou/demo03/MyRequestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/src/com/lagou/demo03/MySessionAttributeListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/src/com/lagou/demo03/MySessionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/src/com/lagou/demo03/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/src/com/lagou/demo03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/web/contextAttribute.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/web/requestAttribute.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/web/sessionActivate.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/web/sessionAttribute.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/web/sessionBind.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/web/sessionGet.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo04/src/com/lagou/demo04/OnlineUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo04/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo04/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo04/web/onlineUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/03任务三 Linux系统概述和编程基础/01_课件/VMware安装CentOS7教程_奇点.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/03任务三 Linux系统概述和编程基础/01_课件/第六章 Linux系统概述和编程基础.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/03任务三 Linux系统概述和编程基础/02_图片/01 linux系统之父.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/03任务三 Linux系统概述和编程基础/02_图片/02 Linux系统图标.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/03任务三 Linux系统概述和编程基础/02_图片/03 任务总结.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/03任务三 Linux系统概述和编程基础/03_软件/linux软件百度网盘地址.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/03任务三 Linux系统概述和编程基础/03_软件/永不过期的Vmware许可证.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/01_课件/第七章 开发环境搭建和Shell编程.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/02_图片/01 任务总结.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/03_软件/linux软件百度网盘地址.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/04_代码/shell/arithmetic.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/04_代码/shell/case.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/04_代码/shell/for.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/04_代码/shell/function.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/04_代码/shell/hello.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/04_代码/shell/if.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/04_代码/shell/var.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/04_代码/shell/while.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task01_demo01/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/task04_demo01/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task01_demo01/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/task04_demo01/web/index.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,28 +114,134 @@
     <expand />
     <select />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="Tag Library Descriptor" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="ProjectId" id="2BkpYLSxGARkZWxAoU9BC69CgnW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenModules" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/task04_demo01/web/WEB-INF/lib" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.28492138" />
   </component>
-  <component name="RunManager">
-    <configuration name="task01_demo01" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.551" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/task01_demo01/" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\lagou\lg_stage04_module02\task04_demo01\web" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\lagou\lg_stage04_module02\task04_demo01\web\WEB-INF\lib" />
+      <recent name="E:\lagou\lg_stage04_module02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.task04_demo01">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="task04_demo01" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="task04_demo01" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.551" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.551" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="task04_demo01:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/task04_demo01_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="task04_demo01:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="task04_demo01" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.551" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
         <artifact name="task01_demo01:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/task01_demo01" />
+            <option name="CONTEXT_PATH" value="/task04_demo01" />
           </settings>
         </artifact>
       </deployment>
@@ -109,6 +308,33 @@
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.task04_demo01" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.551" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.13041125" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -121,24 +347,88 @@
       <option name="presentableId" value="Default" />
       <updated>1657459983460</updated>
       <workItem from="1657459986140" duration="235000" />
+      <workItem from="1657491704818" duration="7838000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Project_Structure" timestamp="1657460045428">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1657496500226">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657460045428" />
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1657460041995">
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657496500226" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1657492372034">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657460041995" />
-    <state x="593" y="130" key="new project wizard" timestamp="1657460024952">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657492372034" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1657505478306">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="593" y="130" key="new project wizard/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657460024952" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657505478306" />
+    <state x="634" y="260" key="FileChooserDialogImpl" timestamp="1657496494239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="260" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657496494239" />
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom" timestamp="1657492761391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657492761391" />
+    <state width="1293" height="282" key="GridCell.Tab.0.center" timestamp="1657492761391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657492761391" />
+    <state width="1293" height="282" key="GridCell.Tab.0.left" timestamp="1657492761390">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657492761390" />
+    <state width="1293" height="282" key="GridCell.Tab.0.right" timestamp="1657492761391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657492761391" />
+    <state width="1293" height="282" key="GridCell.Tab.1.bottom" timestamp="1657492761325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657492761325" />
+    <state width="1293" height="282" key="GridCell.Tab.1.center" timestamp="1657492761325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657492761325" />
+    <state width="1293" height="282" key="GridCell.Tab.1.left" timestamp="1657492761325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657492761325" />
+    <state width="1293" height="282" key="GridCell.Tab.1.right" timestamp="1657492761325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657492761325" />
+    <state width="1293" height="282" key="GridCell.Tab.2.bottom" timestamp="1657492761326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657492761326" />
+    <state width="1293" height="282" key="GridCell.Tab.2.center" timestamp="1657492761325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.2.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657492761325" />
+    <state width="1293" height="282" key="GridCell.Tab.2.left" timestamp="1657492761325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.2.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657492761325" />
+    <state width="1293" height="282" key="GridCell.Tab.2.right" timestamp="1657492761325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.2.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657492761325" />
+    <state x="750" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1657495600446">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="750" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657495600446" />
+    <state x="593" y="130" key="new project wizard" timestamp="1657492734029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="593" y="130" key="new project wizard/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1657492734029" />
   </component>
 </project>
