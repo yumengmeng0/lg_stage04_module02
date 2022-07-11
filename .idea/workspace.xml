@@ -6,95 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d25d498-a57a-4bfd-a428-213c9b11d9c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/task04_demo01/src/com/my/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task04_demo01/src/com/my/taglib/MyTag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task04_demo01/web/WEB-INF/myTag.tld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task04_demo01/web/el_bean.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task04_demo01/web/el_collection.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task04_demo01/web/el_object.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task04_demo01/web/el_operator.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task04_demo01/web/el_param.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task04_demo01/web/jstl.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task04_demo01/web/param.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/01_课件/第四章 EL和JSTL核心技术.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/02_图片/01 任务总结.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/src/com/lagou/demo01/HelloTag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/src/com/lagou/demo01/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/WEB-INF/helloTag.tld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/el_bean.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/el_collection.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/el_object.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/el_operator.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/el_param.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/jstl_choose.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/jstl_for.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/jstl_format.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/jstl_func.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/jstl_if.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/jstl_my.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/jstl_out.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/jstl_remove.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/jstl_set.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/01任务一 EL和JSTL核心技术/04_代码/task04_demo01/web/param.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/01_课件/第五章 Filter+Listener核心技术.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/02_图片/01 任务总结.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo01/src/com/lagou/demo01/LoginFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo01/src/com/lagou/demo01/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo01/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo01/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo01/web/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo01/web/main.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo02/src/com/lagou/demo02/AFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo02/src/com/lagou/demo02/BFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo02/src/com/lagou/demo02/LifeFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo02/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo02/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo02/web/life.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/src/com/lagou/demo03/MyContextAttributeListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/src/com/lagou/demo03/MyContextListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/src/com/lagou/demo03/MyRequestAttributeListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/src/com/lagou/demo03/MyRequestListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/src/com/lagou/demo03/MySessionAttributeListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/src/com/lagou/demo03/MySessionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/src/com/lagou/demo03/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/src/com/lagou/demo03/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/web/contextAttribute.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/web/requestAttribute.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/web/sessionActivate.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/web/sessionAttribute.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/web/sessionBind.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo03/web/sessionGet.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo04/src/com/lagou/demo04/OnlineUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo04/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo04/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/02任务二 Filter+Listener核心技术/04_代码/task05_demo04/web/onlineUser.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/03任务三 Linux系统概述和编程基础/01_课件/VMware安装CentOS7教程_奇点.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/03任务三 Linux系统概述和编程基础/01_课件/第六章 Linux系统概述和编程基础.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/03任务三 Linux系统概述和编程基础/02_图片/01 linux系统之父.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/03任务三 Linux系统概述和编程基础/02_图片/02 Linux系统图标.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/03任务三 Linux系统概述和编程基础/02_图片/03 任务总结.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/03任务三 Linux系统概述和编程基础/03_软件/linux软件百度网盘地址.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/03任务三 Linux系统概述和编程基础/03_软件/永不过期的Vmware许可证.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/01_课件/第七章 开发环境搭建和Shell编程.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/02_图片/01 任务总结.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/03_软件/linux软件百度网盘地址.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/04_代码/shell/arithmetic.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/04_代码/shell/case.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/04_代码/shell/for.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/04_代码/shell/function.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/04_代码/shell/hello.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/04_代码/shell/if.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/04_代码/shell/var.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块二：JavaWeb核心（下）/04任务四 开发环境搭建和Shell编程/04_代码/shell/while.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task01_demo01/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/task04_demo01/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task01_demo01/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/task04_demo01/web/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="7d25d498-a57a-4bfd-a428-213c9b11d9c1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -347,7 +259,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657459983460</updated>
       <workItem from="1657459986140" duration="235000" />
-      <workItem from="1657491704818" duration="7838000" />
+      <workItem from="1657491704818" duration="8125000" />
     </task>
     <servers />
   </component>
